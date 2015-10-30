@@ -1,13 +1,13 @@
 ---
-title: "Forms"
-bg: orange
-color: white #text color
+title: "Scholarship"
+bg: white
+color: green #text color
 fa-icon: file-text-o
 ---
 
-#### Forms 
+#### Scholarship 
 People, please read this as it is very important.
 Failure to comply will result in your child being abducted.
 French Toast
-[Schedule](http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/ES_PDF_2_27-Sheet1.pdf)
+
 
