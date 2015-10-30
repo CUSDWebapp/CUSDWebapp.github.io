@@ -2,7 +2,7 @@
 title: "Scholarship"
 bg: black
 color: green #text color
-fa-icon: file-text-o
+fa-icon: usd
 ---
 
 #### Scholarship 
