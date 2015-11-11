@@ -3,3 +3,26 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
+
+/* CSS for our tables */
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
+
+th {
+    background-color: green;
+    color: white;
+}
+
+td {
+    background-color: purple;
+    color: white;
+}
+/* Remove underlined links */
+a, u {
+      text-decoration: none;
+    }
