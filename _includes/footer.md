@@ -1,5 +1,5 @@
 
-Content by Ryan Bohannon, Yu Zhuo
+CU Science Discovery Github Page 
 &mdash;
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Design by the Great Tim O'Brien [t413.com](http://t413.com/)
 
