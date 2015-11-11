@@ -25,4 +25,10 @@ td {
 /* Remove underlined links */
 a, u {
       text-decoration: none;
-    }
+}
+
+iframe {
+    width: 100%;
+    height: 500px;
+    border: 1px;
+}
