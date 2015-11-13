@@ -6,7 +6,18 @@ fa-icon: usd
 ---
 
 #### Scholarship 
-Parents, check out the scholarship form!
+<!--Parents, check out the scholarship form!-->
 
-[Scholarship Application](http://sciencediscovery.colorado.edu/wp-content/uploads/2013/03/Scholarship-Application-UPDATED-FINAL-WITH-FIELDS.pdf "Scholarship Application")
+&nbsp;
+
+<table>
+  <tr>
+    <td><a href="#" id="show_21">Parents, check out the scholarship application form!</a>
+      <div id="extra_21" style="display: none;">
+        <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/03/Scholarship-Application-UPDATED-FINAL-WITH-FIELDS.pdf&embedded=true"></iframe>
+    </td>
+  </tr>
+  </table>
+
+<!--[Scholarship Application](http://sciencediscovery.colorado.edu/wp-content/uploads/2013/03/Scholarship-Application-UPDATED-FINAL-WITH-FIELDS.pdf "Scholarship Application")-->
 
