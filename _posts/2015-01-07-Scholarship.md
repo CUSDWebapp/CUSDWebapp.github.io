@@ -1,7 +1,7 @@
 ---
 title: "Scholarship"
 bg: turquoise
-color: purple #text color
+color: white #text color
 fa-icon: usd
 ---
 
