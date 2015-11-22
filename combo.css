@@ -36,7 +36,7 @@ iframe {
     padding: 1px;
 }
 
-/*button class*/
+/*
 .button {
   font: bold 11px Arial;
   text-decoration: none;
@@ -48,9 +48,6 @@ iframe {
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
 }
+*/
 
 
-
-.button-secondary {
-  background: rgb(66, 184, 221); /* this is a light blue */
-}
