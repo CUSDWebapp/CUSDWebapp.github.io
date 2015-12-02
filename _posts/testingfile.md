@@ -1,7 +1,7 @@
 ---
 
 
-title: "Maps"
+title: "testing"
 bg: green 
 color: white #text color
 fa-icon: arrows
@@ -16,7 +16,7 @@ Simply click or touch the links below and you will be directed to google maps wh
 &nbsp;
 
 
-[Main Campus](https://www.google.com/maps/dir//40.0061794,-105.2611061/@40.006065,-105.2640309,621m/data=!3m1!1e3!4m2!4m1!3e0)
+[test link Main Campus](https://www.google.com/maps/dir//40.0061794,-105.2611061/@40.006065,-105.2640309,621m/data=!3m1!1e3!4m2!4m1!3e0)
 
 &nbsp;
 
