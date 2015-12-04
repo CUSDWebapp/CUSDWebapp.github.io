@@ -14,7 +14,7 @@ In this tab you will find a link to our scholarship application for parents to a
 &nbsp;
 
 <div class="centered">
-    <a href="#" id="show_21" class"btn btn-info btn-block">Parents, check out the scholarship application form!</a>
+    <a href="#" id="show_21" class="btn btn-info btn-block">Parents, check out the scholarship application form!</a>
       <div id="extra_21" style="display: none;">
         <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/03/Scholarship-Application-UPDATED-FINAL-WITH-FIELDS.pdf&embedded=true"></iframe>
       </div>
