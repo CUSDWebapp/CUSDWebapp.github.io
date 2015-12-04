@@ -7,9 +7,8 @@ fa-icon: usd
 
 #### Scholarship 
 
-In this tab you will find a link to our scholarship application for parents to apply their children. 
 
-<!--Parents, check out the scholarship form!-->
+Parents, check out the scholarship application form!
 
 &nbsp;
 
