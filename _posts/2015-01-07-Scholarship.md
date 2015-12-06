@@ -3,6 +3,7 @@ title: "Scholarship"
 bg: orange
 color: white #text color
 fa-icon: usd
+style:  center
 ---
 
 #### Scholarship 
