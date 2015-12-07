@@ -24,10 +24,7 @@ Parents, please note that our classes have different requirements. Please check 
 
 
 
-<div class="centered">
-    <a href="#" id="show_1" class="btn btn-info btn-block">Dropoff and Pickup Procedures</a>
-      <div id="extra_1" style="display: none;">
-       
+
 <body>
 
 <div class="container">
@@ -47,21 +44,7 @@ Parents, please note that our classes have different requirements. Please check 
   </div>
 </div>
        
-      </div>
-
-    <a href="#" id="show_2" class="btn btn-info btn-block">Supervised Lunch Policy</a>
-      <div id="extra_2" style="display: none;">
-        <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/MiddleSchoolPDF2_27fin-Sheet1.pdf&embedded=true"></iframe>
-      </div>
-
-    <a href="#" id="show_3" class="btn btn-info btn-block">Cancellation and Transfer Policies</a>
-      <div id="extra_3" style="display: none;">
-        <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/WebsiteSchedule_2015_Denver-Sheet1.pdf&embedded=true"></iframe>
-    </div>
-</div>
-
----
-
+ 
 
 
 <div class="container">
