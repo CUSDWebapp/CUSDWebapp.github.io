@@ -1,59 +1,32 @@
 ---
-
-
-title: "testing"
-bg: green 
+title: "Policies"
+bg: purple
 color: white #text color
-fa-icon: arrows
+fa-icon: check
+style:  center
 ---
 
-#### Maps
-In this tab you will find direct links to google maps to make navigating to different parts of our CU campus.
+#### Policies 
+Parents, please note that our classes have different requirements. Please check your class letter if you are unsure what to bring. Program wide policies can be found below.
 
-Simply click or touch the links below and you will be directed to google maps where you can enter your current location and be directed to your selected destination. 
-
-
-&nbsp;
-
-
-[test link Main Campus](https://www.google.com/maps/dir//40.0061794,-105.2611061/@40.006065,-105.2640309,621m/data=!3m1!1e3!4m2!4m1!3e0)
+<!--In this section add supervised lunch policy dropdown, like this:-->
+<!--you can also add dropdowns for cancellation/transfer policies, dropoff and pickup procedures, etc. current links are to the schedules, new links should be pdfs as well.-->
 
 &nbsp;
 
-[Science Learning Lab](https://www.google.com/maps/dir//Science+Learning+Laboratory,+Boulder,+CO/@40.0129232,-105.319827,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x876bedc48eb999e9:0x43e6fdd31592e6e1!2m2!1d-105.2497863!2d40.0128128)
+<div class="centered">
+    <a href="#" id="show_1" class="btn btn-info btn-block">Dropoff and Pickup Procedures</a>
+      <div id="extra_1" style="display: none;">
+        <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/ES_PDF_2_27-Sheet1.pdf&embedded=true"></iframe>
+      </div>
 
-&nbsp;
+    <a href="#" id="show_2" class="btn btn-info btn-block">Supervised Lunch Policy</a>
+      <div id="extra_2" style="display: none;">
+        <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/MiddleSchoolPDF2_27fin-Sheet1.pdf&embedded=true"></iframe>
+      </div>
 
-[Fiske Planetarium](https://www.google.com/maps/dir//Fiske+Planetarium,+Regent+Drive,+Boulder,+CO/@40.0036956,-105.3334788,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x876bec3541f6343b:0xd3360f97efe8aa60!2m2!1d-105.2634381!2d40.0035852)
-
-&nbsp;
-
-[Chautauqua](https://www.google.com/maps/dir//39.9987684,-105.2795729/@39.9985525,-105.2819615,601m/data=!3m1!1e3!4m2!4m1!3e0)
-
-&nbsp;
-
-[Isabelle Farm](https://www.google.com/maps/dir//Thomas+Open+Space,+Baseline+Road,+Lafayette,+CO/@39.9997704,-105.1139194,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x876bf489690f06e7:0x435e34e87f61d550!2m2!1d-105.1095395!2d39.9997915)
-
-&nbsp;
-
-[BioFrontiers Institute](https://www.google.com/maps/dir//40.0091468,-105.2499684/@40.0082875,-105.2534471,16z/data=!4m2!4m1!3e0)
-
-&nbsp;
-
-[Armory (Main Campus)](https://www.google.com/maps/dir//Armory+Bldg,+1511+University+Ave,+Boulder,+CO+80309/@40.0109663,-105.3439296,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x876bec31c368a30d:0x202ade35cb4005de!2m2!1d-105.2738893!2d40.0109874)
-
-&nbsp;
-
-[Fleming (Main Campus)](https://www.google.com/maps/dir//Idea+Forge,+Boulder,+CO+80305/@40.002007,-105.2655817,17z/data=!4m13!1m4!3m3!1s0x876bedb575700325:0xa2ea7393cf7c4c6d!2sIdea+Forge,+Boulder,+CO+80305!3b1!4m7!1m0!1m5!1m1!1s0x876bedb575700325:0xa2ea7393cf7c4c6d!2m2!1d-105.263393!2d40.002007)
-
-&nbsp;
-
-[Boulder Teen Science Cafe - Museum of Natural History (Main Campus)](https://www.google.com/maps/dir//University+of+Colorado+Museum+of+Natural+History,+1030+Broadway,+Boulder,+CO+80309,+United+States/@40.0140733,-105.279236,14z/data=!4m12!1m3!3m2!1s0x876bec36b02d37e1:0x376510f442d33248!2sUniversity+of+Colorado+Museum+of+Natural+History!4m7!1m0!1m5!1m1!1s0x876bec36b02d37e1:0x376510f442d33248!2m2!1d-105.2727543!2d40.0069184?hl=en)
-
-&nbsp;
-
-[Community College of Denver](https://www.google.com/maps/dir//Community+College+of+Denver,+800+Curtis+Street,+Denver,+CO+80204/@39.7421449,-105.0061823,15z/data=!4m13!1m4!3m3!1s0x876c78cc20fc7753:0xef94a6e392ea3676!2sCommunity+College+of+Denver!3b1!4m7!1m0!1m5!1m1!1s0x876c78cc20fc7753:0xef94a6e392ea3676!2m2!1d-105.0051069!2d39.741341)
-
-&nbsp;
-
-<!--[Anschutz Medical Campus](https://www.google.com/maps/dir//CU+Anschutz+Medical+Campus,+13001+E+17th+Pl,+Aurora,+CO+80045/@39.7446045,-104.8437677,16z/data=!4m13!1m4!3m3!1s0x876c634d04985013:0xb540696e93466730!2sCU+Anschutz+Medical+Campus!3b1!4m7!1m0!1m5!1m1!1s0x876c634d04985013:0xb540696e93466730!2m2!1d-104.8377105!2d39.7451972)-->
+    <a href="#" id="show_3" class="btn btn-info btn-block">Cancellation and Transfer Policies</a>
+      <div id="extra_3" style="display: none;">
+        <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/WebsiteSchedule_2015_Denver-Sheet1.pdf&embedded=true"></iframe>
+    </div>
+</div>
