@@ -22,7 +22,7 @@ Parents, please note that our classes have different requirements. Please check 
 </head>
 
 | Main Campus   |                   | 
-| ------------- |:--------------:   | 
+| ------------- |-----------------: | 
 | Pick Up Time  |  8:30AM-12:30PM   | 
 |Drop Off Time  |12:00 PM - 4:00 PM |
 
