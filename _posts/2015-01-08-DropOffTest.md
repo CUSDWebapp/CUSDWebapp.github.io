@@ -23,7 +23,7 @@ Parents, please note that our classes have different requirements. Please check 
 
 | Main Campus                           |
 | ------------- |:-------------:| -----:|
-| Pick Up Time      | 8:30AM-12:30PM | Drop Off Time |12:00 PM - 4:00 PM |
+| Pick Up Time  | 8:30AM-12:30PM | Drop Off Time |12:00 PM - 4:00 PM |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
