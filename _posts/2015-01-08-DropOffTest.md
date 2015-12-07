@@ -28,7 +28,7 @@ Parents, please note that our classes have different requirements. Please check 
     <a href="#" id="show_1" class="btn btn-info btn-block">Dropoff and Pickup Procedures</a>
       <div id="extra_1" style="display: none;">
        
-
+<body>
 
 <div class="container">
  
@@ -59,3 +59,4 @@ Parents, please note that our classes have different requirements. Please check 
         <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/WebsiteSchedule_2015_Denver-Sheet1.pdf&embedded=true"></iframe>
     </div>
 </div>
+</body>
