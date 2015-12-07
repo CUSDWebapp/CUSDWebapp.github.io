@@ -14,10 +14,37 @@ Parents, please note that our classes have different requirements. Please check 
 
 &nbsp;
 
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+
+
+
+
 <div class="centered">
     <a href="#" id="show_1" class="btn btn-info btn-block">Dropoff and Pickup Procedures</a>
       <div id="extra_1" style="display: none;">
-        <iframe src="http://docs.google.com/gview?url=http://sciencediscovery.colorado.edu/wp-content/uploads/2013/05/ES_PDF_2_27-Sheet1.pdf&embedded=true"></iframe>
+       
+       <div class="container">
+ 
+  <div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Dropoff and Pickup Procedures
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li class="dropdown-header">Main Campus</li>
+      <li><a href="#">Drop off</a></li>
+      <li><a href="#">Pick Up</a></li>
+      <li><a href="#">Time</a></li>
+      <li class="divider"></li>
+      <li class="dropdown-header">East Campus</li>
+      <li><a href="#">Pick Up</a></li>
+    </ul>
+  </div>
+</div>
+       
       </div>
 
     <a href="#" id="show_2" class="btn btn-info btn-block">Supervised Lunch Policy</a>
