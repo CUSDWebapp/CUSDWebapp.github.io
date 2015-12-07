@@ -1,5 +1,5 @@
 ---
-title: "Policies"
+title: "Testing Policies"
 bg: purple
 color: white #text color
 fa-icon: check
@@ -28,7 +28,9 @@ Parents, please note that our classes have different requirements. Please check 
     <a href="#" id="show_1" class="btn btn-info btn-block">Dropoff and Pickup Procedures</a>
       <div id="extra_1" style="display: none;">
        
-       <div class="container">
+
+
+<div class="container">
  
   <div class="dropdown">
     <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Dropoff and Pickup Procedures
